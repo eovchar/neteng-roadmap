@@ -6,3 +6,5 @@ The intention of this document is to:
 - Provide a roadmap for those seeking to learn or enhance their knowledge in the network engineering field.
 
 Please note that this is *NOT* an exhaustive blueprint and as such you must adapt and optimize it to your particular usecase.
+
+![NetengRoadmap](./img/NetengRoadmap_v1.png)
