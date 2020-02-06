@@ -1,10 +1,13 @@
-# neteng roadmap/landscape
-Network Engineering at Scale Roadmap/Landscape
+# Network Engineering at Scale Roadmap/Landscape
 
-The intention of this document is to:
-- Describe the landscape of different knowledge areas that are critical for a network engineer in a large scale environment.
-- Provide a roadmap for those seeking to learn or enhance their knowledge in the network engineering field.
+The purpose of this roadmap is to give you an idea of the landscape of network engineering in a large scale environment, including different knowledge areas that might be interesting for you to explore and topics to learn next. 
 
-Please note that this is *NOT* an exhaustive blueprint and as such you must adapt and optimize it to your particular usecase.
+Please note that this is NOT an exhaustive blueprint and as such you must adapt and optimize it to your particular usecase or area of interest.
+
+**Note to Beginners** (*and experienced engineers as well*)
+
+This roadmap covers a lot of information and most areas can be a specialty by itself! Don't feel overwhelmed, you don't need to learn it all!
+
+If you think that this can be improved in any way, your feedback is welcome.
 
 ![NetengRoadmap](./img/NetengRoadmap_v11.png)
