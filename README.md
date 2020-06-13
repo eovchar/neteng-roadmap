@@ -8,6 +8,6 @@ Please note that this is NOT an exhaustive blueprint and as such you must adapt 
 
 This roadmap covers a lot of information and most areas can be a specialty by itself! Don't feel overwhelmed, you don't need to learn it all!
 
-If you think that this can be improved in any way, your feedback is welcome.
+If you think that this can be improved in any way, your feedback is welcome, please submit a Github issue.
 
 ![NetengRoadmap](./img/NetengRoadmap_v12.png)
