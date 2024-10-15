@@ -10,4 +10,10 @@ This roadmap covers a lot of information and most areas can be a specialty by it
 
 If you think that this can be improved in any way, your feedback is welcome, please submit a Github issue.
 
+
+TODO:
+- [x] ship 2024 update.
+- [ ] publish new version to roadmap.sh
+- [ ] include reference materials with links, RFCs, presentations, videos for each (most) of the topics. 
+
 ![NetengRoadmap](./img/NetengRoadmap_v2.png)
