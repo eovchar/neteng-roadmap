@@ -14,6 +14,7 @@ If you think that this can be improved in any way, your feedback is welcome, ple
 TODO:
 - [x] ship 2024 update.
 - [ ] publish new version to roadmap.sh
-- [ ] include reference materials with links, RFCs, presentations, videos for each (most) of the topics. 
+- [ ] include reference materials with links, RFCs, presentations, videos for each (most) of the topics.
+- [ ] create a yaml structure.
 
 ![NetengRoadmap](./img/NetengRoadmap_v2.png)
