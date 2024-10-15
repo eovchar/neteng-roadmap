@@ -10,4 +10,4 @@ This roadmap covers a lot of information and most areas can be a specialty by it
 
 If you think that this can be improved in any way, your feedback is welcome, please submit a Github issue.
 
-![NetengRoadmap](./img/NetengRoadmap_v12.png)
+![NetengRoadmap](./img/NetengRoadmap_v2.png)
