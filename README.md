@@ -18,3 +18,7 @@ TODO:
 - [ ] create a yaml structure.
 
 ![NetengRoadmap](./img/NetengRoadmap_v2.png)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=eovchar/neteng-roadmap&type=date&legend=top-left)](https://www.star-history.com/#eovchar/neteng-roadmap&type=date&legend=top-left)
